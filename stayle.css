@@ -4,3 +4,18 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+
+
+
+body{
+    height: 100vh;
+    background: linear-gradient(45deg, violet, dodgerblue);
+    display: grid;
+    place-items: center;
+    color: #fff;
+
+
+}
+h1{
+    font-size: 10vw;
+}
